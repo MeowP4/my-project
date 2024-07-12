@@ -1,6 +1,2 @@
-# my-project
-
-
-
-from remote repo
-from local repo
+# first-project
+I just learned Git and how to push and pull!
